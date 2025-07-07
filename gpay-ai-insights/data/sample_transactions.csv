@@ -1,6 +1,0 @@
-type,amount,account,merchant,date,status,raw
-Sent,500.00,XXXXXX3609,,7 Jul 2025, 12:24:23 GMT+05:30,Completed,"Sent ₹500.00 using Bank Account XXXXXX3609 7 Jul 2025, 12:24:23 GMT+05:30"
-Paid,6000.00,XXXXXX3609,,4 Jul 2025, 19:47:08 GMT+05:30,Completed,"Paid ₹6000.00 using Bank Account XXXXXX3609 4 Jul 2025, 19:47:08 GMT+05:30"
-Received,18000.00,,,10 Jun 2025, 11:30:28 GMT+05:30,Completed,"Received ₹18,000.00 10 Jun 2025, 11:30:28 GMT+05:30"
-Paid,537.00,XXXXXX3609,Andhra Pradesh Central Power Distribution Corporation,5 Jun 2025, 08:13:04 GMT+05:30,Completed,"Paid ₹537.00 to Andhra Pradesh Central Power Distribution Corporation using Bank Account XXXXXX3609 5 Jun 2025, 08:13:04 GMT+05:30"
-Sent,940.00,XXXXXX1994,,5 Jul 2025, 11:16:07 GMT+05:30,Completed,"Sent ₹940.00 using Bank Account XXXXXX1994 5 Jul 2025, 11:16:07 GMT+05:30"
