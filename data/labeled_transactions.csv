@@ -1,0 +1,13 @@
+merchant,raw,category
+bigbasket,"Paid ₹1200.00 to BigBasket using Bank Account XXXXXX3609 1 Jul 2025, 10:00:00 GMT+05:30",groceries
+indian oil,"Paid ₹2000.00 to Indian Oil using Bank Account XXXXXX3609 2 Jul 2025, 11:00:00 GMT+05:30",fuel
+uber,"Paid ₹500.00 to Uber using Bank Account XXXXXX3609 3 Jul 2025, 12:00:00 GMT+05:30",travel
+zomato,"Paid ₹800.00 to Zomato using Bank Account XXXXXX3609 4 Jul 2025, 13:00:00 GMT+05:30",food delivery
+amazon,"Paid ₹3000.00 to Amazon using Bank Account XXXXXX3609 5 Jul 2025, 14:00:00 GMT+05:30",shopping
+apcpdcl,"Paid ₹537.00 to Andhra Pradesh Central Power Distribution Corporation using Bank Account XXXXXX3609 5 Jun 2025, 08:13:04 GMT+05:30",utilities
+airtel,"Paid ₹399.00 to Airtel using Bank Account XXXXXX3609 6 Jul 2025, 15:00:00 GMT+05:30",mobile recharge
+netflix,"Paid ₹499.00 to Netflix using Bank Account XXXXXX3609 7 Jul 2025, 16:00:00 GMT+05:30",entertainment
+apollo,"Paid ₹1500.00 to Apollo Pharmacy using Bank Account XXXXXX3609 8 Jul 2025, 17:00:00 GMT+05:30",health
+byju,"Paid ₹2000.00 to Byju's using Bank Account XXXXXX3609 9 Jul 2025, 18:00:00 GMT+05:30",education
+no broker,"Paid ₹10000.00 to No Broker using Bank Account XXXXXX3609 10 Jul 2025, 19:00:00 GMT+05:30",rent
+unknown merchant,"Paid ₹1000.00 to Unknown Merchant using Bank Account XXXXXX3609 11 Jul 2025, 20:00:00 GMT+05:30",others

@@ -1,0 +1,7 @@
+pandas
+beautifulsoup4
+matplotlib
+streamlit
+python-dotenv
+scikit-learn
+pytest
